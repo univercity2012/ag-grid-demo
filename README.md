@@ -9,4 +9,6 @@ set var connection = mysql.createConnection({host: 'xxxx', user: 'xxxx', passwor
 2) Define table columns and others
 edit ~\ag-grid-mx-debt-example\src\client\exampleEnterpriseModel.js
 
+If you do not have any data to work with, you can complete this project https://github.com/univercity2012/aws_rds_mex_debt_analysis.git first and then start this example.
+
 Reference: this example is based on https://github.com/ag-grid/ag-grid-enterprise-mysql-example.git
